@@ -2,6 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
+FaceForensics++/
+AI_Video_Generation_Dataset/
+.venv/
+genimage/
+output/
+
 
 # C extensions
 *.so
