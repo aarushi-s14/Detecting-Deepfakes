@@ -1,0 +1,59 @@
+{
+  "os":  "Linux-6.8.0-59-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-07-18T15:50:49.818130Z",
+  "program":  "/home/aarushi/Detecting-Deepfakes/resnet_detector.ipynb",
+  "git":  {
+    "remote":  "git@github.com:aarushi-s14/Detecting-Deepfakes.git",
+    "commit":  "ff19b68b7c7d752b3304b6741b37c08e9efd5d23"
+  },
+  "email":  "aarushishukla@ucsb.edu",
+  "root":  "/media/hdd6/aarushi/Detecting-Deepfakes",
+  "host":  "skywalker2",
+  "executable":  "/home/aarushi/Detecting-Deepfakes/.venv/bin/python",
+  "cpu_count":  44,
+  "cpu_count_logical":  88,
+  "gpu":  "NVIDIA GeForce GTX TITAN X",
+  "gpu_count":  4,
+  "disk":  {
+    "/":  {
+      "total":  "250373009408",
+      "used":  "25156268032"
+    }
+  },
+  "memory":  {
+    "total":  "135019888640"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX TITAN X",
+      "memoryTotal":  "12884901888",
+      "cudaCores":  3072,
+      "architecture":  "Maxwell",
+      "uuid":  "GPU-2fc3cbf5-1127-8d9c-6d2c-925bde863c0c"
+    },
+    {
+      "name":  "NVIDIA TITAN Xp",
+      "memoryTotal":  "12884901888",
+      "cudaCores":  3840,
+      "architecture":  "Pascal",
+      "uuid":  "GPU-da37c23b-c1af-5d33-a707-08c38a4af16d"
+    },
+    {
+      "name":  "NVIDIA TITAN Xp",
+      "memoryTotal":  "12884901888",
+      "cudaCores":  3840,
+      "architecture":  "Pascal",
+      "uuid":  "GPU-4c7b4e72-3177-1b94-f340-ab3285052020"
+    },
+    {
+      "name":  "NVIDIA GeForce GTX 1080 Ti",
+      "memoryTotal":  "11811160064",
+      "cudaCores":  3584,
+      "architecture":  "Pascal",
+      "uuid":  "GPU-3e3af7ae-b792-4ade-b60a-c92376163844"
+    }
+  ],
+  "cudaVersion":  "12.2",
+  "writerId":  "x7y2r6l7i8xrd15v2851l2k9m5xlikdp"
+}
