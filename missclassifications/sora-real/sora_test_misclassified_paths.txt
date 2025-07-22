@@ -1,0 +1,2 @@
+fingerprints/real-vs-sora/sora/16_fingerprint.png
+fingerprints/real-vs-sora/sora/30_fingerprint.png

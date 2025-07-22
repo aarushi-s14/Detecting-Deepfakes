@@ -1,0 +1,2 @@
+fingerprints/real-sora-veo3/veo3/13_fingerprint.png
+fingerprints/real-sora-veo3/veo3/16_fingerprint.png

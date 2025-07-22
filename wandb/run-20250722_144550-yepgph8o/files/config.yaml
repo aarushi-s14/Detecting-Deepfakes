@@ -1,0 +1,121 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            zy120p3tgc9s40do1ngt1tctvpjok5s4:
+                cpu_count: 44
+                cpu_count_logical: 88
+                cudaVersion: "12.2"
+                disk:
+                    /:
+                        total: "250373009408"
+                        used: "25181958144"
+                email: aarushishukla@ucsb.edu
+                executable: /home/aarushi/Detecting-Deepfakes/.venv/bin/python
+                git:
+                    commit: 721b71a2a652a229e1baec087c9cba40a309024a
+                    remote: git@github.com:aarushi-s14/Detecting-Deepfakes.git
+                gpu: NVIDIA GeForce GTX TITAN X
+                gpu_count: 4
+                gpu_nvidia:
+                    - architecture: Maxwell
+                      cudaCores: 3072
+                      memoryTotal: "12884901888"
+                      name: NVIDIA GeForce GTX TITAN X
+                      uuid: GPU-2fc3cbf5-1127-8d9c-6d2c-925bde863c0c
+                    - architecture: Pascal
+                      cudaCores: 3840
+                      memoryTotal: "12884901888"
+                      name: NVIDIA TITAN Xp
+                      uuid: GPU-da37c23b-c1af-5d33-a707-08c38a4af16d
+                    - architecture: Pascal
+                      cudaCores: 3840
+                      memoryTotal: "12884901888"
+                      name: NVIDIA TITAN Xp
+                      uuid: GPU-4c7b4e72-3177-1b94-f340-ab3285052020
+                    - architecture: Pascal
+                      cudaCores: 3584
+                      memoryTotal: "11811160064"
+                      name: NVIDIA GeForce GTX 1080 Ti
+                      uuid: GPU-3e3af7ae-b792-4ade-b60a-c92376163844
+                host: skywalker2
+                memory:
+                    total: "135019888640"
+                os: Linux-6.8.0-59-generic-x86_64-with-glibc2.35
+                program: /home/aarushi/Detecting-Deepfakes/resnet_detector.ipynb
+                python: CPython 3.10.12
+                root: /media/hdd6/aarushi/Detecting-Deepfakes
+                startedAt: "2025-07-22T21:45:50.941249Z"
+                writerId: zy120p3tgc9s40do1ngt1tctvpjok5s4
+        m: []
+        python_version: 3.10.12
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+            "3":
+                - 2
+                - 3
+                - 13
+                - 16
+            "4": 3.10.12
+            "5": 0.21.0
+            "8":
+                - 1
+            "12": 0.21.0
+            "13": linux-x86_64
+        visualize:
+            confusion_matrix:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: confusion_matrix_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+architecture:
+    value: resnet18
+batch_size:
+    value: 32
+epochs:
+    value: 50
+img_size:
+    value: 224
+lr:
+    value: 0.0001
+optimizer:
+    value: Adam
+split:
+    value:
+        - 0.7
+        - 0.15
+        - 0.15
