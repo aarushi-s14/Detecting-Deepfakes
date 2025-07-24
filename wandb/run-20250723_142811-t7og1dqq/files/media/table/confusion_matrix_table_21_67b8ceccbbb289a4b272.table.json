@@ -1,0 +1,1 @@
+{"columns": ["Actual", "Predicted", "nPredictions"], "data": [["NeuralTextures", "NeuralTextures", 14.0], ["NeuralTextures", "Real", 135.0], ["Real", "NeuralTextures", 9.0], ["Real", "Real", 197.0]]}

@@ -1,0 +1,7 @@
+fingerprints/real-sora-veo3/sora/30_fingerprint.png
+fingerprints/real-sora-veo3/sora/23_fingerprint.png
+fingerprints/real-sora-veo3/sora/11_fingerprint.png
+fingerprints/real-sora-veo3/sora/28_fingerprint.png
+fingerprints/real-sora-veo3/sora/16_fingerprint.png
+fingerprints/real-sora-veo3/sora/14_fingerprint.png
+fingerprints/real-sora-veo3/sora/8_fingerprint.png

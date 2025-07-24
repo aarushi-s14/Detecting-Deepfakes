@@ -1,0 +1,15 @@
+{
+  "os":  "Linux-6.8.0-59-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-07-24T17:55:19.997518Z",
+  "program":  "/home/aarushi/Detecting-Deepfakes/resnet_detector.ipynb",
+  "git":  {
+    "remote":  "git@github.com:aarushi-s14/Detecting-Deepfakes.git",
+    "commit":  "0fa0a4f9958f3fbe33a1f44ee0061919ff7a0612"
+  },
+  "email":  "aarushishukla@ucsb.edu",
+  "root":  "/media/hdd6/aarushi/Detecting-Deepfakes",
+  "host":  "skywalker2",
+  "executable":  "/home/aarushi/Detecting-Deepfakes/.venv/bin/python",
+  "writerId":  "j9gabmqx3kar6cfzmxpdg9dxkrtwmyqe"
+}
